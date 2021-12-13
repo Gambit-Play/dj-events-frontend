@@ -28,4 +28,9 @@
 .showcase h1 {
 	font-size: 40px;
 	margin-bottom: 0;
+	font-weight: 100;
+}
+
+.showcase h2 {
+	font-weight: 400;
 }

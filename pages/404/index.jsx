@@ -1,4 +1,4 @@
-import Link from 'next/Link';
+import Link from 'next/link';
 import { useRouter } from 'next/router';
 import { BiErrorAlt } from 'react-icons/bi';
 import Layout from '@/components/Layout/Layout';

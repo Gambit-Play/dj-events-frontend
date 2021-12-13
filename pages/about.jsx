@@ -1,4 +1,4 @@
-import Link from 'next/Link';
+import Link from 'next/link';
 import Layout from '@/components/Layout/Layout';
 
 export default function AboutPage() {

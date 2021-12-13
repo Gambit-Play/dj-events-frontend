@@ -1,7 +1,7 @@
-import Link from 'next/Link';
+import Link from 'next/link';
 import styles from './Footer.module.css';
 
-export default function Footer() {
+export const Footer = () => {
 	const year = new Date().getFullYear();
 
 	return (
@@ -12,4 +12,4 @@ export default function Footer() {
 			</p>
 		</footer>
 	);
-}
+};
